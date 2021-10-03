@@ -1,0 +1,3 @@
+/home/mihash/Downloads/01-proc-c++/cmake-build-abcdemovar/CMakeFiles/rebuild_cache.dir
+/home/mihash/Downloads/01-proc-c++/cmake-build-abcdemovar/CMakeFiles/edit_cache.dir
+/home/mihash/Downloads/01-proc-c++/cmake-build-abcdemovar/CMakeFiles/task01.dir
